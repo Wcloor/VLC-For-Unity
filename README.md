@@ -11,6 +11,11 @@
 
 ![image](https://user-images.githubusercontent.com/127721528/233580020-c72910e2-dd72-4ee7-97a5-f765531cc27d.png)
 
+如果未找到，请点击以下按钮
+
+![image](https://user-images.githubusercontent.com/127721528/233582073-34ed8deb-2e4f-40c5-b16e-ee493e6062ce.png)
+
+
 4.打包时设置Other Setting中的AutoGraphics API取消勾选，Graphics ApIs设置OpenGLE33，不要Vulkan API。
 
 ![image](https://user-images.githubusercontent.com/127721528/233580567-06f5c3a5-1924-4cf9-a0d3-3b141e464308.png)
